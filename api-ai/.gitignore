@@ -33,3 +33,7 @@ build/
 .vscode/
 /mvnw
 /mvnw.cmd
+/.mvn/
+
+### Env ###
+.env
